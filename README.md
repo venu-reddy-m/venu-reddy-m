@@ -1,6 +1,6 @@
 # Hi, I'm Venu
 
-**Site Reliability Engineer.** I care less about shipping the feature and more about what happens at 3 a.m. when it breaks — the SLO that defined "broken," the alert that should have fired, the runbook that should have existed.
+**DevOps & Platform Engineer.** I care less about shipping the feature than about what happens at 3 a.m. when it breaks — the SLO that defined "broken," the alert that should have fired, the runbook that should have existed.
 
 ### Currently building
 
@@ -18,6 +18,6 @@
 
 ### Open to
 
-Remote-first **SRE / Platform Engineering** roles. US-based, authorized to work without sponsorship.
+Remote-first **DevOps / Platform / SRE** roles. US-based, authorized to work without sponsorship.
 
 📫 [venumadhavreddymada@gmail.com](mailto:venumadhavreddymada@gmail.com) · [LinkedIn](https://www.linkedin.com/in/venu-reddy-57a89bb3/)
