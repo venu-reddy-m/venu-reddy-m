@@ -18,6 +18,6 @@
 
 ### Open to
 
-Remote-first **DevOps / Platform / SRE** roles. US-based, authorized to work without sponsorship.
+Remote-first **DevOps / Platform / SRE** roles. US-based.
 
 📫 [venumadhavreddymada@gmail.com](mailto:venumadhavreddymada@gmail.com) · [LinkedIn](https://www.linkedin.com/in/venu-reddy-57a89bb3/)
